@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/944405171.svg)](https://doi.org/10.5281/zenodo.15230832)
+
 # A Study of the Categories used in Papers with Code
 
 An increasing number of developers share Research Software online to support scientific investigations. To improve software findability, the scientific community has developed domain-specific taxonomies, yet their adoption remains unclear. This paper evaluates a set of software categories introducing a comparative framework with state-of-the-art text similarity techniques (TF-IDF, Sentence-BERT, CLIP). Using Papers with Code as a case study, we assess the level of overlap between different software categories defined in the platform, based on the methods descriptions contained in them. Our results show significant category overlap, which may limit the effectiveness of classification algorithms. While community-defined categories provide a useful foundation, they may require refinement, such as subcategories or clearer definitions, to better capture interdisciplinary methods and improve classification accuracy.
