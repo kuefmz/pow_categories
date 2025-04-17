@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "A Study of the Categories used in Papers with Code"
+authors:
+  - family-names: "Ciuciu-Kiss"
+    given-names: "Jenifer Tabita"
+  - family-names: "Garijo"
+    given-names: "Daniel"
+date-released: 2025-04-17
+version: "1.0.0"
+doi: "h10.5281/zenodo.15230833"
+url: "https://github.com/kuefmz/pow_categories"
